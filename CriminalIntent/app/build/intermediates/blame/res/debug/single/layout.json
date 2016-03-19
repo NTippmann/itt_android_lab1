@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_date.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\layout\\dialog_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_crime_camera.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\layout\\fragment_crime_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_twopane.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\layout\\activity_twopane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_twopane.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\layout\\activity_twopane.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_crime_camera.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\layout\\fragment_crime_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_crime_pager.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\layout\\activity_crime_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_crime.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\layout\\list_item_crime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_crime.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\layout\\fragment_crime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_date.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\layout\\dialog_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_crime.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\layout\\list_item_crime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_crime_pager.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\layout\\activity_crime_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_crime.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\layout\\fragment_crime.xml"
+    }
+]

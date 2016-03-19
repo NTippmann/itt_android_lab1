@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_crime_list.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\menu\\fragment_crime_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crime_list_item_context.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\ITT\\CriminalIntent\\app\\src\\main\\res\\menu\\crime_list_item_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fragment_crime_list.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\menu\\fragment_crime_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crime_list_item_context.xml",
+        "source": "C:\\Users\\Alex\\Documents\\Development\\git\\android_apps\\CriminalIntent\\app\\src\\main\\res\\menu\\crime_list_item_context.xml"
+    }
+]
